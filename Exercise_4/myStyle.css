@@ -1,0 +1,31 @@
+p
+{
+    color:black;
+    font-family: arial;
+    font-size: 24pt;
+    text-align: justify;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+}
+.text
+{
+    width: 450px;
+    text-align:center;
+    margin:auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+.title
+{
+    text-align:center;
+}
+.border
+{
+    text-align:center
+}
+.background
+{
+    text-align:center;
+}
