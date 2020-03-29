@@ -1,0 +1,132 @@
+body{
+    margin:0;
+    padding:0;
+    background: url(tesla.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+h1
+{
+    color: white;
+    font-size: 38px;
+}
+h5
+{
+    color: white;
+    font-size: 18px;
+}
+h5.invention:hover
+{
+    color: black
+    font-size: 18px;
+}
+p
+{
+    color: white;
+    font-family: arial
+    font-size: 24pt;
+    text-align: justify;
+
+}
+p.invention:hover
+{
+    color: black;
+}
+.box
+{
+    width: 450px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align:center;
+    margin:auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color:white;
+}
+.box:hover
+{
+    width: 450px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 40px;
+    text-align:center;
+    margin:auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color:black;
+}
+.box-img {
+    border-radius: 50%;
+    width: 300px;
+    height: 200px;
+  }
+.tesla-coil{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 30px;
+    text-align: center;
+    margin:auto 5px;
+    color:white;
+}
+.tesla-coil:hover
+{
+    width: 300px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 30px;
+    text-align: center;
+    margin:auto 5px;
+    color:white;
+}
+.radio{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 30px;
+    text-align: center;
+    margin:auto;
+    color:white;
+    margin-top: -234px;
+}
+.radio:hover
+{
+    width: 300px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 30px;
+    text-align: center;
+    margin:auto;
+    color:white;
+    margin-top: -234px;
+}
+.Turbina-Tesla{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 30px;
+    text-align: center;
+    margin: auto 950px;
+    color:white;
+    margin-top: -232px;
+}
+.Turbina-Tesla:hover
+{
+    width: 300px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 30px;
+    text-align: center;
+    margin: auto 950px;
+    color:white;
+    margin-top: -232px;
+}
+.video
+{
+    margin:auto;
+    text-align: center;
+    margin-top:50px;
+}
+.tesla-company
+{
+    width: 300px;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 30px;
+    text-align: center;
+    margin: auto 950px;
+    color:white;
+    margin-top: -232px;
+}
